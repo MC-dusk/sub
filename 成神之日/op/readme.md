@@ -1,5 +1,6 @@
 # 视频
 - https://www.bilibili.com/video/av330205012
+- https://www.bilibili.com/video/BV16A411j7Bc
 - https://www.youtube.com/watch?v=YMXICeKdwe8
 # 说明
 - ac代表逐字歌词
