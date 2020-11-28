@@ -1,5 +1,5 @@
 # 视频
-- https://www.bilibili.com/video/av413859353
-- https://www.bilibili.com/video/BV19V41167Br
+- [https://www.bilibili.com/video/BV19V41167Br](https://www.bilibili.com/video/av413859353)
 # 封面
-![avatar](pf1.png)
+>## 8:5
+<img src="https://i2.hdslb.com/bfs/archive/e4739cd78317159681d4506d355520190a3f37b4.jpg" alt="img" width="50%" />
