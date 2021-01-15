@@ -1,9 +1,13 @@
 # 字体
-提供部分ass字幕使用的字体，常用字体如“思源黑体”请从官方站点下载。
 
-链接：https://wwx.lanzoux.com/b01hzbqub
+- 推荐使用免费开源字体：https://github.com/adobe-fonts
 
-密码：0000
+- 提供部分ass字幕使用的字体，若缺少某种字体可提issue。
+
+  链接：https://wwx.lanzoux.com/b01hzc1zc
+
+  密码：1234
 
 # 注意
+
 仅供个人使用，部分字体商用需联系厂商授权
