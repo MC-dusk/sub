@@ -14,10 +14,10 @@
 
 >#### B站8:5
 >
-><img src="https://i2.hdslb.com/bfs/archive/e4739cd78317159681d4506d355520190a3f37b4.jpg" alt="img" width="50%" align="left"/>
+><img src="https://i2.hdslb.com/bfs/archive/e4739cd78317159681d4506d355520190a3f37b4.jpg" alt="img" width="50%"/>
 
 ---
 
 >#### A站16:9
 >
-><img src="https://tx-free-imgs.acfun.cn/o_1ecsnhkpo1k98aaf1gq21601inr0.jpeg" alt="img" width="50%" align="left"/>
+><img src="https://tx-free-imgs.acfun.cn/o_1ecsnhkpo1k98aaf1gq21601inr0.jpeg" alt="img" width="50%"/>

@@ -12,4 +12,4 @@
 
 >#### B站8:5
 >
-><img src="https://i0.hdslb.com/bfs/archive/1b407bf9eb2b8d0116937acae275201c769419a0.jpg" alt="img" width="50%" align="left"/>
+><img src="https://i0.hdslb.com/bfs/archive/1b407bf9eb2b8d0116937acae275201c769419a0.jpg" alt="img" width="50%"/>
