@@ -1,14 +1,29 @@
-# 视频
+# 歌词
 
-- B站
-  - https://www.bilibili.com/video/av413859353
-  - https://www.bilibili.com/video/BV19V41167Br
-- A站
-  - https://www.acfun.cn/v/ac16748072
+> **互换后**
+
+#### 如果有妹妹就好了
 
 - [ ] 精准逐字
 - [x] 平均逐字
 - [ ] 逐行
+
+#### 我的青春恋爱物语果然有问题。完
+
+- [ ] 精准逐字
+- [x] 平均逐字
+- [ ] 逐行
+
+# 视频
+
+#### B站
+
+- https://www.bilibili.com/video/av413859353
+- https://www.bilibili.com/video/BV19V41167Br
+
+#### A站
+
+- https://www.acfun.cn/v/ac16748072
 
 # 封面
 

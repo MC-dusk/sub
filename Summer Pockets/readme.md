@@ -1,14 +1,25 @@
-# 视频
+# 歌词
 
-- B站
-  - https://www.bilibili.com/video/av628017570
-  - https://www.bilibili.com/video/BV1Ht4y1Y7BJ
-- A站
-  - https://www.acfun.cn/v/ac20354112
+#### Summer Pockets REFLECTION BLUE
+
+> **アスタロア**
+>
+> **Asterlore**
 
 - [x] 精准逐字
 - [ ] 平均逐字
 - [ ] 逐行
+
+# 视频
+
+#### B站
+
+- https://www.bilibili.com/video/av628017570
+- https://www.bilibili.com/video/BV1Ht4y1Y7BJ
+
+#### A站
+
+- https://www.acfun.cn/v/ac20354112
 
 # 封面
 

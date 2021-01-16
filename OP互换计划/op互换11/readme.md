@@ -1,12 +1,25 @@
-# 视频
+# 歌词
 
-- B站
-  - https://www.bilibili.com/video/av201350038
-  - https://www.bilibili.com/video/BV1Eh411o7DX
+> **互换后**
+
+#### 我的青春恋爱物语果然有问题。续
 
 - [x] 精准逐字
 - [ ] 平均逐字
 - [ ] 逐行
+
+#### 我的青春恋爱物语果然有问题。完
+
+- [x] 精准逐字
+- [ ] 平均逐字
+- [ ] 逐行
+
+# 视频
+
+#### B站
+
+- https://www.bilibili.com/video/av201350038
+- https://www.bilibili.com/video/BV1Eh411o7DX
 
 # 封面
 

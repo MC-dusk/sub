@@ -1,14 +1,23 @@
-# 视频
+# 歌词
 
-- B站
-  - https://www.bilibili.com/video/av797843721
-  - https://www.bilibili.com/video/BV14y4y167hd
-- A站
-  - https://www.acfun.cn/v/ac19822593
+#### 成神之日ed
+
+> **Goodbye Seven Seas**
 
 - [x] 精准逐字
 - [ ] 平均逐字
 - [ ] 逐行
+
+# 视频
+
+#### B站
+
+- https://www.bilibili.com/video/av797843721
+- https://www.bilibili.com/video/BV14y4y167hd
+
+#### A站
+
+- https://www.acfun.cn/v/ac19822593
 
 # 说明
 

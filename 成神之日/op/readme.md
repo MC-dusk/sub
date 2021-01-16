@@ -1,16 +1,29 @@
-# 视频
+# 歌词
 
-- B站
-  - https://www.bilibili.com/video/av330205012
-  - https://www.bilibili.com/video/BV16A411j7Bc
-- A站
-  - https://www.acfun.cn/v/ac19557141
-- 油管
-  - https://www.youtube.com/watch?v=YMXICeKdwe8
+#### 成神之日op
+
+> **君という神話**
+>
+> **名为你的神话**
 
 - [x] 精准逐字
 - [ ] 平均逐字
 - [ ] 逐行
+
+# 视频
+
+#### B站
+
+- https://www.bilibili.com/video/av330205012
+- https://www.bilibili.com/video/BV16A411j7Bc
+
+#### A站
+
+- https://www.acfun.cn/v/ac19557141
+
+#### 油管
+
+- https://www.youtube.com/watch?v=YMXICeKdwe8
 
 # 说明
 

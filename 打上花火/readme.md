@@ -1,12 +1,23 @@
-# 视频
+# 歌词
 
-- B站
-  - https://www.bilibili.com/video/av541974146
-  - https://www.bilibili.com/video/BV1Ci4y1M7oy
+#### 打上花火
+
+> **烟花**
+>
+> **打ち上げ花火、下から見るか？横から見るか？**
+>
+> **升空的焰火，从下面看？还是从侧面看？**
 
 - [x] 精准逐字
 - [ ] 平均逐字
 - [ ] 逐行
+
+# 视频
+
+#### B站
+
+- https://www.bilibili.com/video/av541974146
+- https://www.bilibili.com/video/BV1Ci4y1M7oy
 
 # 说明
 

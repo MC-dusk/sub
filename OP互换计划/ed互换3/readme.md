@@ -1,14 +1,29 @@
-# 视频
+# 歌词
 
-- B站
-  - https://www.bilibili.com/video/av499229973
-  - https://www.bilibili.com/video/BV1BK411T7pz
-- A站
-  - https://www.acfun.cn/v/ac17317971
+> **互换后**
+
+#### 神之塔
 
 - [ ] 精准逐字
 - [ ] 平均逐字
 - [x] 逐行
+
+#### 高校之神
+
+- [ ] 精准逐字
+- [ ] 平均逐字
+- [x] 逐行
+
+# 视频
+
+#### B站
+
+- https://www.bilibili.com/video/av499229973
+- https://www.bilibili.com/video/BV1BK411T7pz
+
+#### A站
+
+- https://www.acfun.cn/v/ac17317971
 
 # 封面
 
