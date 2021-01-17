@@ -3,11 +3,6 @@
 ScriptType: v4.00+
 Original Timing: karaoke.vmoe.info
 
-
-[Aegisub Project Garbage]
-Audio File: 
-Video File: ?dummy:60.000000:21600:1920:1080:73:73:73:
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: K1,Noto Serif CJK JP Black,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,4,0,1,120,30,240,1

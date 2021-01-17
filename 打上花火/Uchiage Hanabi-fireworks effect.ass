@@ -13,14 +13,10 @@ Export filters: Karaoke template
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
+Scroll Position: 120
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Kr1.1-furigana,思源宋体 SemiBold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,1,8,0,0,50,1
-Style: Kr1-furigana,Source Han Serif JP SemiBold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,1,2,0,0,50,1
-Style: Kr2-furigana,思源宋体 SemiBold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,5,30,30,23,1
-Style: Kr3-furigana,思源宋体 SemiBold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.75,0.75,5,30,30,23,1
-Style: Default-furigana,思源宋体 SemiBold,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,5,30,30,23,1
 Style: Default,思源宋体 SemiBold,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,5,30,30,23,1
 Style: Kr3,思源宋体 SemiBold,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,5,30,30,23,1
 Style: Kr2,思源宋体 SemiBold,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,5,30,30,23,1

@@ -10,6 +10,8 @@
 
 #### Summer Pockets
 
+> 3p
+
 - [ ] 精准逐字
 - [x] 平均逐字
 - [ ] 逐行
@@ -18,14 +20,16 @@
 
 #### B站
 
-- p1
+- 游戏人生（1p）
   - https://www.bilibili.com/video/av668280807
   - https://www.bilibili.com/video/BV12a4y1e7Jv
-- p2
+- Summer Pockets（3p）
   - https://www.bilibili.com/video/av883304372
   - https://www.bilibili.com/video/BV1rK4y1t7yx
 
 #### A站
+
+> 4p合
 
 - https://www.acfun.cn/v/ac15750774
 

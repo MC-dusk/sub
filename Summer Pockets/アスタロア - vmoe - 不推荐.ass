@@ -6,14 +6,6 @@ Original Timing: karaoke.vmoe.info
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: E:/歌曲/新歌/新歌38-20.11.18/鈴木このみ - アスタロア.mp3
-Video File: ?dummy:30.000000:9000:1920:1080:128:128:128:
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 3
-Video Position: 489
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,10,10,10,1
