@@ -35,4 +35,4 @@ https://github.com/MC-dusk/sub/blob/more/%E5%AD%97%E4%BD%93font/readme.md
 - 有建议
 - 其他事项
 
-一般一日内会有回复。
+本人较忙，可能不能及时回复，请见谅。
