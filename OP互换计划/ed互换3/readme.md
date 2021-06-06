@@ -16,10 +16,10 @@
 
 # 视频
 
-#### B站
+#### ~~B站~~
 
-- https://www.bilibili.com/video/av499229973
-- https://www.bilibili.com/video/BV1BK411T7pz
+- ~~https://www.bilibili.com/video/av499229973~~
+- ~~https://www.bilibili.com/video/BV1BK411T7pz~~
 
 #### A站
 

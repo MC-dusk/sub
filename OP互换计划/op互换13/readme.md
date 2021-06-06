@@ -16,10 +16,10 @@
 
 # 视频
 
-#### B站
+#### ~~B站~~
 
-- https://www.bilibili.com/video/av838906234
-- https://www.bilibili.com/video/BV1554y1S77L
+- ~~https://www.bilibili.com/video/av838906234~~
+- ~~https://www.bilibili.com/video/BV1554y1S77L~~
 
 #### A站
 

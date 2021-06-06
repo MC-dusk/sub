@@ -31,7 +31,6 @@
 作词、作曲、编曲：篠崎あやと、橘亮祐
 
 > （第27话、第30话、第33话、第40话、第41话）第27话用作片尾曲，第41话用作插曲
->
 
 #### ideal white
 
@@ -44,14 +43,13 @@
 演唱：绫野真白
 
 > （1st season）
->
 
 # 视频
 
-#### B站
+#### ~~B站~~
 
-- https://www.bilibili.com/video/av287139274
-- https://www.bilibili.com/video/BV1jf4y1D7rk
+- ~~https://www.bilibili.com/video/av287139274~~
+- ~~https://www.bilibili.com/video/BV1jf4y1D7rk~~
 
 #### A站
 

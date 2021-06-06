@@ -10,10 +10,10 @@
 
 # 视频
 
-#### B站
+#### ~~B站~~
 
-- https://www.bilibili.com/video/av797843721
-- https://www.bilibili.com/video/BV14y4y167hd
+- ~~https://www.bilibili.com/video/av797843721~~
+- ~~https://www.bilibili.com/video/BV14y4y167hd~~
 
 #### A站
 

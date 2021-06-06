@@ -12,18 +12,18 @@
 
 # 视频
 
-#### B站
+#### ~~B站~~
 
-- https://www.bilibili.com/video/av330205012
-- https://www.bilibili.com/video/BV16A411j7Bc
+- ~~https://www.bilibili.com/video/av330205012~~
+- ~~https://www.bilibili.com/video/BV16A411j7Bc~~
 
 #### A站
 
 - https://www.acfun.cn/v/ac19557141
 
-#### 油管
+#### ~~油管~~
 
-- https://www.youtube.com/watch?v=YMXICeKdwe8
+- ~~https://www.youtube.com/watch?v=YMXICeKdwe8~~
 
 # 说明
 

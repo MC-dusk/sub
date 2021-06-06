@@ -18,18 +18,18 @@
 
 # 视频
 
-#### B站
+#### ~~B站~~
 
-- 游戏人生（1p）
-  - https://www.bilibili.com/video/av668280807
-  - https://www.bilibili.com/video/BV12a4y1e7Jv
-- Summer Pockets（3p）
-  - https://www.bilibili.com/video/av883304372
-  - https://www.bilibili.com/video/BV1rK4y1t7yx
+- ~~游戏人生（1p）~~
+  - ~~https://www.bilibili.com/video/av668280807~~
+  - ~~https://www.bilibili.com/video/BV12a4y1e7Jv~~
+- ~~Summer Pockets（3p）~~
+  - ~~https://www.bilibili.com/video/av883304372~~
+  - ~~https://www.bilibili.com/video/BV1rK4y1t7yx~~
 
 #### A站
 
-> 4p合
+> 2p合
 
 - https://www.acfun.cn/v/ac15750774
 
@@ -38,6 +38,7 @@
 >#### B站8:5
 >
 ><img src="https://i2.hdslb.com/bfs/archive/2f28fc1dc232e5a21a3bfd0b530156b21b4321ee.jpg" alt="img" width="50%"/>
+>
 ><img src="https://i1.hdslb.com/bfs/archive/f3874fc996136c8bb0eee170108c8fa4e63a9dde.jpg" alt="img" width="50%"/>
 
 ---

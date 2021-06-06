@@ -14,10 +14,10 @@
 
 # 视频
 
-#### B站
+#### ~~B站~~
 
-- https://www.bilibili.com/video/av628017570
-- https://www.bilibili.com/video/BV1Ht4y1Y7BJ
+- ~~https://www.bilibili.com/video/av628017570~~
+- ~~https://www.bilibili.com/video/BV1Ht4y1Y7BJ~~
 
 #### A站
 
