@@ -24,11 +24,11 @@
 
 ## 没有所需字体？
 
-https://github.com/MC-dusk/sub/blob/more/%E5%AD%97%E4%BD%93font/readme.md
+[仅供个人非商使用](https://wwe.lanzouo.com/b01hzc1zc?password=1234)
 
 ## Repo大小
 
-**15.3M**左右，clone要慎重
+已优化，3M左右
 
 ## 与我联系
 
