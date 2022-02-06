@@ -1,6 +1,6 @@
 # 歌词
 
-#### Summer Pockets REFLECTION BLUE
+#### Summer Pockets REFLECTION BLUE（op）
 
 > **アスタロア**
 >

@@ -12,7 +12,7 @@
 >
 > HELLO WORLD
 
-#### ~~B站~~
+#### B站
 
 - ~~https://www.bilibili.com/video/av289063278~~
 - ~~https://www.bilibili.com/video/BV1nf4y1r7n2~~

@@ -24,7 +24,7 @@
 
 ## 没有所需字体？
 
-[仅供个人非商使用](https://wwe.lanzouo.com/b01hzc1zc?password=1234)
+[由此下载（仅供个人非商使用）](https://wwe.lanzouo.com/b01hzc1zc?password=1234)
 
 ## Repo大小
 
