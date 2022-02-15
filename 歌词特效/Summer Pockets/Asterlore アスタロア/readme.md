@@ -14,6 +14,8 @@
 
 # 视频
 
+> 静止画背景
+
 #### ~~B站~~
 
 - ~~https://www.bilibili.com/video/av628017570~~
