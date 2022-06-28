@@ -42,4 +42,4 @@
 
 # 封面
 
-![](pf.jpg)
+<img src="https://i0.hdslb.com/bfs/album/2636493cde0c259c5fcb6d31a1192c5305d796a7.jpg" style="zoom:25%;" />
