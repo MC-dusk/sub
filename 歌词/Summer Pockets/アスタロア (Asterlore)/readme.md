@@ -2,15 +2,16 @@
 
 #### Summer Pockets REFLECTION BLUE（op）
 
-> **アスタロア**
->
-> **Asterlore**
+- **アスタロア**
+- **Asterlore**
 
 - [x] 精准逐字
 - [ ] 平均逐字
 - [ ] 逐行
 
 > 附带一份[Vmoe字幕组](https://karaoke.vmoe.info/)的`アスタロア`卡拉OK歌词字幕
+
+> 需要自行执行自动化，应用卡拉OK模板。
 
 # 视频
 
@@ -25,7 +26,7 @@
 
 - https://www.acfun.cn/v/ac20354112
 
-# 封面
+# 样张
 
 >#### B站8:5
 >

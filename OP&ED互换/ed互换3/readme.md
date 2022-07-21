@@ -1,14 +1,15 @@
 # 歌词
 
-> **互换后**
+> 需要自行执行自动化，应用卡拉OK模板。
+>
 
-#### 神之塔
+#### 高校之神
 
 - [ ] 精准逐字
 - [ ] 平均逐字
 - [x] 逐行
 
-#### 高校之神
+#### 神之塔
 
 - [ ] 精准逐字
 - [ ] 平均逐字
@@ -25,14 +26,9 @@
 
 - https://www.acfun.cn/v/ac17317971
 
-# 封面
+# 样张
 
->#### B站8:5
->
-><img src="https://i2.hdslb.com/bfs/archive/666f1b3123e323a65552259854d69968aea16a5e.jpg" alt="img" width="50%"/>
+<img src="https://i0.hdslb.com/bfs/album/148a6fe44d772e2caa328713e43210476523a42a.webp" style="zoom:33%;" />
 
----
+<img src="https://i0.hdslb.com/bfs/album/b9defb778fda89c8b1649ca3f6511a576bd49839.webp" style="zoom:33%;" />
 
->#### A站16:9
->
-><img src="https://tx-free-imgs.acfun.cn/o_1efbdjpmu1u715cua6l161mbjh0.jpeg" alt="img" width="50%"/>
