@@ -26,11 +26,5 @@
 
 # 样张
 
-#### `width="50%"`
-
 <img src="https://i0.hdslb.com/bfs/album/77966066e44d50ee1bc250f66eaa758bb3b60ef7.webp" alt="img" width="50%"/>
-
-#### `style="zoom: 25%;"`
-
-<img src="https://i0.hdslb.com/bfs/album/77966066e44d50ee1bc250f66eaa758bb3b60ef7.webp" style="zoom: 25%;" />
 
