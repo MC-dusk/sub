@@ -1,16 +1,10 @@
 # 歌词
 
-#### [OP替换21] 石纪元S3 - 秋叶原冥途战争
+#### [OP替换] 间谍教室 - 刀剑神域 进击篇 无星之夜的咏叹调
 
-> BGM：メイド大回転
+> BGM：往け - LiSA
 >
-> 原曲：ワスレガタキ
-
-使用`Kara_Effector-3.6`制作
-
-歌词来源：[QQ音乐](https://y.qq.com/n/ryqq/songDetail/004R5BmO1AsSPB)
-
-翻译：百度翻译
+> 原曲：灯火 - nonoc
 
 - [x] 精准逐字
 - [ ] 平均逐字
@@ -22,13 +16,12 @@
 
 #### B站
 
-- https://www.bilibili.com/video/BV1ec411p7ez
+- https://www.bilibili.com/video/BV1KM4y197bY
 
 #### A站
 
-- https://www.acfun.cn/v/ac41127401
+- https://www.acfun.cn/v/ac40524678
 
 # 样张
 
-<img src="https://i1.hdslb.com/bfs/archive/4741afb27ab9ec17194110d314b9f09f6c3f4b49.jpg" style="zoom:25%;" />
-
+<img src="https://i1.hdslb.com/bfs/archive/111fd81a4c198759e9893076921e98183e75d6a7.jpg" style="zoom:25%;" />
