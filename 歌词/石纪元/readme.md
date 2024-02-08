@@ -13,7 +13,7 @@
 - [x] 平均逐字（zh）
 - [ ] 逐行
 
-使用Aegisub制作，歌词来源：网易云音乐（下载器：https://github.com/jitwxs/163MusicLyrics）
+使用Aegisub制作，歌词来源：网易云音乐（下载器：https://github.com/jitwxs/163MusicLyrics ）
 
 # 附件
 
@@ -23,7 +23,7 @@
 
 #### A站
 
-- 不存在
+- https://www.acfun.cn/v/ac43724532
 
 #### B站
 
@@ -31,5 +31,5 @@
 
 # 封面
 
-![](https://i1.hdslb.com/bfs/archive/3411468fb658b4f306dcd472fb3943e8853a8f54.jpg@.webp)
+![](https://i1.hdslb.com/bfs/archive/3411468fb658b4f306dcd472fb3943e8853a8f54.jpg@25p.webp)
 
