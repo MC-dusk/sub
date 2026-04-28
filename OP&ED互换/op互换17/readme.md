@@ -50,6 +50,8 @@
 
 - ~~https://www.bilibili.com/video/av287139274~~
 - ~~https://www.bilibili.com/video/BV1jf4y1D7rk~~
+- [𝕽𝖊: 𝖀𝖓𝖑𝖎𝖒𝖎𝖙𝖊𝖉 𝕭𝖑𝖆𝖉𝖊 𝖂𝖔𝖗𝖐 1](https://www.bilibili.com/video/BV1N3411X7kJ/)
+- [𝕽𝖊: 𝖀𝖓𝖑𝖎𝖒𝖎𝖙𝖊𝖉 𝕭𝖑𝖆𝖉𝖊 𝖂𝖔𝖗𝖐 2](https://www.bilibili.com/video/BV1TR4y1D7Po/)
 
 #### A站
 
@@ -66,3 +68,4 @@
 >#### A站16:9
 >
 ><img src="https://tx-free-imgs.acfun.cn/o_1ej87dcfv1b2liut1quf12mg3vk0.jpeg" alt="img" width="50%"/>
+
